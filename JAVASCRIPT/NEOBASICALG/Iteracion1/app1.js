@@ -18,8 +18,8 @@ console.log(h,y);
 
 //1.4 Crea una otra variable 'z' y asignale el valor de 'h' + 'y'.
 
-let z = h
-console.log(z)+y;
+let z = h+y
+console.log(z);
 
 
 
