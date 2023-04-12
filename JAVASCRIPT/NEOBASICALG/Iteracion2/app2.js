@@ -34,7 +34,7 @@ console.log(toy1.price+toy2.price)
 const car1 = {name: 'BMW m&m', basePrice: 50000, finalPrice: 60000};
 const car2 = {name: 'Chevrolet Corbina', basePrice: 70000, finalPrice: 80000};
 let globalBasePrice = 10000;
-const elements = [globalBasePrice= 25000]
-console.log(elements)
+const globalBasePrice2 = [globalBasePrice= 25000]
+console.log(globalBasePrice2)
 
 
