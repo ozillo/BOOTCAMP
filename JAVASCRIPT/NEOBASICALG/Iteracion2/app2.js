@@ -38,3 +38,5 @@ const globalBasePrice2 = [globalBasePrice= 25000]
 console.log(globalBasePrice2)
 
 
+
+
