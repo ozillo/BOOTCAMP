@@ -23,10 +23,10 @@ console.log(x)
 
 for (x=1;x<=10;x++) {
 
-if(x<=10){
+if(x<=){
 console.log("Intentando dormir 🐑")
 }
-else  (x=10){
+else  {
     console.log("Dormido!")
 
 }
