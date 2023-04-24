@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+
+margin:auto;
+
+
+}
+
+.div{
+height: 40px;;
+width: 150px;
+padding: 10px;
+display:inline;
+background-color: #e74c3c;
+
+
+
+
+}
+
+
+.p{
+height: 40px;
+width: 150px;
+padding: 10px;
+display:inline;
+background-color: #9b59b6;
+
+    
+}
+.link{
+    height: 40px;;
+    width: 150px;
+    background-color: #2ecc71;
+
+}
+
+.span{
+    height: 40px;;
+    width: 150px;
+    background-color: #3498db;
+
+
+}
+
+
