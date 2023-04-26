@@ -12,3 +12,4 @@ const average = (array) => {
 }
 
 console.log(average(numbers)/(numbers.length))
+
