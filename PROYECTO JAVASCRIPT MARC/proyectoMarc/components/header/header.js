@@ -4,17 +4,13 @@ import "./header.css";
 //crear template()
 const template = () => {
 return `
-    <div class="Marc">
+    <div class="inicio">
     <img src="https://res.cloudinary.com/dw9b8eqmc/image/upload/v1683485172/ProyectoMarc/images_i6mmoz.png" alt="Logo"/>
     <ul>
-    <li>Gallery</li>
+    <li>Games</li>
     <li>About</li>
     <li>Home</li>
-
     </ul>
-    
-    
-    
     </div>
 `;
 };
@@ -37,7 +33,7 @@ export const printTemplate=()=> {
 const crearboton=()=>{
 const button=document.createElement("button");
 button.innerText="Login";
-const divMarc=document.querySelector(".Marc");
+const divMarc=document.querySelector(".inicio");
 
 divMarc.appendChild(button);
 };
