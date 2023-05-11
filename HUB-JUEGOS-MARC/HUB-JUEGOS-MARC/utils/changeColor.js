@@ -1,4 +1,3 @@
-
 export const changeColor = () => {
     const ramdonNumber = (min, max) => {
       min = Math.ceil(min);
